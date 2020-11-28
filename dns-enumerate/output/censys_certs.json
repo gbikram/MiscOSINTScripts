@@ -1,0 +1,3496 @@
+[
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "drive.accoounts-google.com",
+            "fonts.accoounts-google.com",
+            "lh3.accoounts-google.com",
+            "mail.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "notifications.accoounts-google.com",
+            "ogs.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T20:19:25Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "accounts.accoounts-google.com"
+        ],
+        "parsed.serial_number": "373185094998045447749978383585164495536436",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T21:22:02",
+        "parsed.validity.start": "2020-10-01T20:19:25Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accounts.accoounts-google.com",
+            "apis.accounts.accoounts-google.com",
+            "content.accounts.accoounts-google.com",
+            "drive.accounts.accoounts-google.com",
+            "fonts.accounts.accoounts-google.com",
+            "lh3.accounts.accoounts-google.com",
+            "mail.accounts.accoounts-google.com",
+            "myaccount.accounts.accoounts-google.com",
+            "notifications.accounts.accoounts-google.com",
+            "ogs.accounts.accoounts-google.com",
+            "play.accounts.accoounts-google.com",
+            "ssl.accounts.accoounts-google.com",
+            "www.accounts.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T20:11:58Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "accounts.accounts.accoounts-google.com"
+        ],
+        "parsed.serial_number": "279594638708043944590928507945567603424830",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T21:13:26",
+        "parsed.validity.start": "2020-10-01T20:11:58Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "drive.accoounts-google.com",
+            "fonts.accoounts-google.com",
+            "lh3.accoounts-google.com",
+            "mail.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "notifications.accoounts-google.com",
+            "ogs.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T20:19:25Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "accounts.accoounts-google.com"
+        ],
+        "parsed.serial_number": "373185094998045447749978383585164495536436",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T21:20:57",
+        "parsed.validity.start": "2020-10-01T20:19:25Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.download-google.com",
+            "cpanel.download-google.com",
+            "cpcalendars.download-google.com",
+            "cpcontacts.download-google.com",
+            "download-google.com",
+            "mail.download-google.com",
+            "webdisk.download-google.com",
+            "webmail.download-google.com",
+            "www.download-google.com"
+        ],
+        "parsed.validity.end": "2021-01-13T07:30:21Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcalendars.download-google.com"
+        ],
+        "parsed.serial_number": "384068024531453818118513930109902795412824",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T15:12:02",
+        "parsed.validity.start": "2020-10-15T07:30:21Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "hypstarcdn.tiktok.verification-google.com",
+            "kakao.tiktok.verification-google.com",
+            "m.tiktok.verification-google.com",
+            "maliva.tiktok.verification-google.com",
+            "mon-va.tiktok.verification-google.com",
+            "polyfill.tiktok.verification-google.com",
+            "s16.tiktok.verification-google.com",
+            "sf16-muse-va.tiktok.verification-google.com",
+            "tiktok.verification-google.com",
+            "www.tiktok.verification-google.com"
+        ],
+        "parsed.validity.end": "2020-12-21T11:11:26Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.tiktok.verification-google.com"
+        ],
+        "parsed.serial_number": "342516699036394194470528267043609327735245",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-22T12:59:47",
+        "parsed.validity.start": "2020-09-22T11:11:26Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bnb-google.com",
+            "bnb-google.com",
+            "cpanel.bnb-google.com",
+            "cpcalendars.bnb-google.com",
+            "cpcontacts.bnb-google.com",
+            "ipv6.bnb-google.com",
+            "mail.bnb-google.com",
+            "webdisk.bnb-google.com",
+            "webmail.bnb-google.com",
+            "www.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-25T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "bnb-google.com"
+        ],
+        "parsed.serial_number": "68618224913324241128170555092308457605",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-27T02:37:55",
+        "parsed.validity.start": "2020-08-27T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.we-love-google.com",
+            "cpanel.we-love-google.com",
+            "cpcalendars.we-love-google.com",
+            "cpcontacts.we-love-google.com",
+            "mail.we-love-google.com",
+            "we-love-google.com",
+            "webdisk.we-love-google.com",
+            "webmail.we-love-google.com",
+            "www.we-love-google.com"
+        ],
+        "parsed.validity.end": "2020-12-07T10:51:08Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "mail.we-love-google.com"
+        ],
+        "parsed.serial_number": "398267565367676591223972105883477696926809",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-08T11:52:34",
+        "parsed.validity.start": "2020-09-08T10:51:08Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bnb-google.com",
+            "bnb-google.com",
+            "cpanel.bnb-google.com",
+            "cpcalendars.bnb-google.com",
+            "cpcontacts.bnb-google.com",
+            "ipv6.bnb-google.com",
+            "mail.bnb-google.com",
+            "webdisk.bnb-google.com",
+            "webmail.bnb-google.com",
+            "www.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-25T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "bnb-google.com"
+        ],
+        "parsed.serial_number": "68618224913324241128170555092308457605",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-27T02:37:47",
+        "parsed.validity.start": "2020-08-27T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bing-vs-google.com",
+            "bing-vs-google.com",
+            "cpanel.bing-vs-google.com",
+            "cpcalendars.bing-vs-google.com",
+            "cpcontacts.bing-vs-google.com",
+            "mail.bing-vs-google.com",
+            "webdisk.bing-vs-google.com",
+            "webmail.bing-vs-google.com",
+            "www.bing-vs-google.com"
+        ],
+        "parsed.validity.end": "2020-11-29T03:52:06Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpanel.bing-vs-google.com"
+        ],
+        "parsed.serial_number": "414258338646327556215392107462985660440975",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-31T04:54:00",
+        "parsed.validity.start": "2020-08-31T03:52:06Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "hypstarcdn.tiktok.verification-google.com",
+            "kakao.tiktok.verification-google.com",
+            "m.tiktok.verification-google.com",
+            "maliva.tiktok.verification-google.com",
+            "mon-va.tiktok.verification-google.com",
+            "polyfill.tiktok.verification-google.com",
+            "s16.tiktok.verification-google.com",
+            "sf16-muse-va.tiktok.verification-google.com",
+            "tiktok.verification-google.com",
+            "www.tiktok.verification-google.com"
+        ],
+        "parsed.validity.end": "2020-12-21T11:11:26Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.tiktok.verification-google.com"
+        ],
+        "parsed.serial_number": "342516699036394194470528267043609327735245",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-22T12:12:49",
+        "parsed.validity.start": "2020-09-22T11:11:26Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bnb-google.com",
+            "bnb-google.com",
+            "cpanel.bnb-google.com",
+            "cpcalendars.bnb-google.com",
+            "cpcontacts.bnb-google.com",
+            "ipv6.bnb-google.com",
+            "mail.bnb-google.com",
+            "webdisk.bnb-google.com",
+            "webmail.bnb-google.com",
+            "www.bnb-google.com"
+        ],
+        "parsed.validity.end": "2021-02-09T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "bnb-google.com"
+        ],
+        "parsed.serial_number": "35802055025408872459706122391867165441",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-15T20:05:42",
+        "parsed.validity.start": "2020-11-11T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.we-love-google.com",
+            "cpanel.we-love-google.com",
+            "cpcalendars.we-love-google.com",
+            "cpcontacts.we-love-google.com",
+            "mail.we-love-google.com",
+            "we-love-google.com",
+            "webdisk.we-love-google.com",
+            "webmail.we-love-google.com",
+            "www.we-love-google.com"
+        ],
+        "parsed.validity.end": "2020-12-07T10:51:08Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "mail.we-love-google.com"
+        ],
+        "parsed.serial_number": "398267565367676591223972105883477696926809",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-08T11:52:34",
+        "parsed.validity.start": "2020-09-08T10:51:08Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "blog.pozycjonowanie-google.com",
+            "cpanel.blog.pozycjonowanie-google.com",
+            "cpcalendars.blog.pozycjonowanie-google.com",
+            "cpcontacts.blog.pozycjonowanie-google.com",
+            "mail.blog.pozycjonowanie-google.com",
+            "webdisk.blog.pozycjonowanie-google.com",
+            "webmail.blog.pozycjonowanie-google.com",
+            "www.blog.pozycjonowanie-google.com"
+        ],
+        "parsed.validity.end": "2021-01-17T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "blog.pozycjonowanie-google.com"
+        ],
+        "parsed.serial_number": "79585203995159608606244958433688914441",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T14:41:20",
+        "parsed.validity.start": "2020-10-19T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.iwww-google.com",
+            "cpcalendars.iwww-google.com",
+            "cpcontacts.iwww-google.com",
+            "iwww-google.com",
+            "mail.iwww-google.com",
+            "webdisk.iwww-google.com",
+            "webmail.iwww-google.com",
+            "www.iwww-google.com"
+        ],
+        "parsed.validity.end": "2021-01-04T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "iwww-google.com"
+        ],
+        "parsed.serial_number": "99374044081386719100314285092425386847",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-06T12:20:22",
+        "parsed.validity.start": "2020-10-06T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.hostel-google.com",
+            "cpanel.hostel-google.com",
+            "cpcalendars.hostel-google.com",
+            "cpcontacts.hostel-google.com",
+            "hostel-google.com",
+            "ipv6.hostel-google.com",
+            "mail.hostel-google.com",
+            "webdisk.hostel-google.com",
+            "webmail.hostel-google.com",
+            "www.hostel-google.com"
+        ],
+        "parsed.validity.end": "2021-01-28T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "hostel-google.com"
+        ],
+        "parsed.serial_number": "241909199128416631809635395033331585607",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-02T05:00:23",
+        "parsed.validity.start": "2020-10-30T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.hostel-google.com",
+            "cpanel.hostel-google.com",
+            "cpcalendars.hostel-google.com",
+            "cpcontacts.hostel-google.com",
+            "hostel-google.com",
+            "ipv6.hostel-google.com",
+            "mail.hostel-google.com",
+            "webdisk.hostel-google.com",
+            "webmail.hostel-google.com",
+            "www.hostel-google.com"
+        ],
+        "parsed.validity.end": "2021-01-28T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "hostel-google.com"
+        ],
+        "parsed.serial_number": "241909199128416631809635395033331585607",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-06T07:00:10",
+        "parsed.validity.start": "2020-10-30T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.we-love-google.com",
+            "cpanel.we-love-google.com",
+            "cpcalendars.we-love-google.com",
+            "cpcontacts.we-love-google.com",
+            "mail.we-love-google.com",
+            "we-love-google.com",
+            "webdisk.we-love-google.com",
+            "webmail.we-love-google.com",
+            "www.we-love-google.com"
+        ],
+        "parsed.validity.end": "2021-02-07T07:31:37Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "mail.we-love-google.com"
+        ],
+        "parsed.serial_number": "383829853312199047942506847230963405693247",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-13T14:19:09",
+        "parsed.validity.start": "2020-11-09T07:31:37Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accounts.accoounts-google.com",
+            "apis.accounts.accoounts-google.com",
+            "content.accounts.accoounts-google.com",
+            "drive.accounts.accoounts-google.com",
+            "fonts.accounts.accoounts-google.com",
+            "lh3.accounts.accoounts-google.com",
+            "mail.accounts.accoounts-google.com",
+            "myaccount.accounts.accoounts-google.com",
+            "notifications.accounts.accoounts-google.com",
+            "ogs.accounts.accoounts-google.com",
+            "play.accounts.accoounts-google.com",
+            "ssl.accounts.accoounts-google.com",
+            "www.accounts.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T20:11:58Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "accounts.accounts.accoounts-google.com"
+        ],
+        "parsed.serial_number": "279594638708043944590928507945567603424830",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T21:26:29",
+        "parsed.validity.start": "2020-10-01T20:11:58Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.download-google.com",
+            "cpanel.download-google.com",
+            "cpcalendars.download-google.com",
+            "cpcontacts.download-google.com",
+            "download-google.com",
+            "mail.download-google.com",
+            "webdisk.download-google.com",
+            "webmail.download-google.com",
+            "www.download-google.com"
+        ],
+        "parsed.validity.end": "2021-01-13T07:30:21Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcalendars.download-google.com"
+        ],
+        "parsed.serial_number": "384068024531453818118513930109902795412824",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T02:15:27",
+        "parsed.validity.start": "2020-10-15T07:30:21Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bing-vs-google.com",
+            "bing-vs-google.com",
+            "cpanel.bing-vs-google.com",
+            "cpcalendars.bing-vs-google.com",
+            "cpcontacts.bing-vs-google.com",
+            "mail.bing-vs-google.com",
+            "webdisk.bing-vs-google.com",
+            "webmail.bing-vs-google.com",
+            "www.bing-vs-google.com"
+        ],
+        "parsed.validity.end": "2021-01-29T04:01:53Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcontacts.bing-vs-google.com"
+        ],
+        "parsed.serial_number": "273703200951591896458126202796240822912040",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-02T15:08:54",
+        "parsed.validity.start": "2020-10-31T04:01:53Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bing-vs-google.com",
+            "bing-vs-google.com",
+            "cpanel.bing-vs-google.com",
+            "cpcalendars.bing-vs-google.com",
+            "cpcontacts.bing-vs-google.com",
+            "mail.bing-vs-google.com",
+            "webdisk.bing-vs-google.com",
+            "webmail.bing-vs-google.com",
+            "www.bing-vs-google.com"
+        ],
+        "parsed.validity.end": "2021-01-29T04:01:53Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcontacts.bing-vs-google.com"
+        ],
+        "parsed.serial_number": "273703200951591896458126202796240822912040",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-02T15:10:47",
+        "parsed.validity.start": "2020-10-31T04:01:53Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-29T20:11:34Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "299845585769939636014377205047579270468447",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-30T22:19:16",
+        "parsed.validity.start": "2020-09-30T20:11:34Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.wwv-google.com",
+            "cpcalendars.wwv-google.com",
+            "cpcontacts.wwv-google.com",
+            "mail.wwv-google.com",
+            "webdisk.wwv-google.com",
+            "webmail.wwv-google.com",
+            "wwv-google.com",
+            "www.wwv-google.com"
+        ],
+        "parsed.validity.end": "2021-01-06T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "wwv-google.com"
+        ],
+        "parsed.serial_number": "268695353513684233613651475383424828702",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-08T02:14:14",
+        "parsed.validity.start": "2020-10-08T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.k-google.com",
+            "cpanel.k-google.com",
+            "cpcalendars.k-google.com",
+            "cpcontacts.k-google.com",
+            "k-google.com",
+            "k-google.loan-information.com",
+            "mail.k-google.com",
+            "webdisk.k-google.com",
+            "webmail.k-google.com",
+            "www.k-google.com",
+            "www.k-google.loan-information.com"
+        ],
+        "parsed.validity.end": "2020-10-17T22:41:29Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.k-google.com"
+        ],
+        "parsed.serial_number": "363227549311213459598050656500411442684132",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-07-20T00:06:08",
+        "parsed.validity.start": "2020-07-19T22:41:29Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.my-email-google.com",
+            "cpcalendars.my-email-google.com",
+            "cpcontacts.my-email-google.com",
+            "mail.my-email-google.com",
+            "my-email-google.com",
+            "webdisk.my-email-google.com",
+            "webmail.my-email-google.com",
+            "www.my-email-google.com"
+        ],
+        "parsed.validity.end": "2021-01-28T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "my-email-google.com"
+        ],
+        "parsed.serial_number": "66884347337749675798553639924267250580",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-02T00:22:23",
+        "parsed.validity.start": "2020-10-30T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.hotel-google.com",
+            "cpanel.hotel-google.com",
+            "cpcalendars.hotel-google.com",
+            "cpcontacts.hotel-google.com",
+            "hotel-google.com",
+            "ipv6.hotel-google.com",
+            "mail.hotel-google.com",
+            "webdisk.hotel-google.com",
+            "webmail.hotel-google.com",
+            "www.hotel-google.com"
+        ],
+        "parsed.validity.end": "2021-01-22T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "hotel-google.com"
+        ],
+        "parsed.serial_number": "174994940765958149586496619479214950896",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-25T23:47:29",
+        "parsed.validity.start": "2020-10-24T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.iwww-google.com",
+            "cpcalendars.iwww-google.com",
+            "cpcontacts.iwww-google.com",
+            "iwww-google.com",
+            "mail.iwww-google.com",
+            "webdisk.iwww-google.com",
+            "webmail.iwww-google.com",
+            "www.iwww-google.com"
+        ],
+        "parsed.validity.end": "2021-01-22T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "iwww-google.com"
+        ],
+        "parsed.serial_number": "97289370132988618685438569174380407302",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-24T22:22:12",
+        "parsed.validity.start": "2020-10-24T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.vww-google.com",
+            "cpcalendars.vww-google.com",
+            "cpcontacts.vww-google.com",
+            "mail.vww-google.com",
+            "vww-google.com",
+            "webdisk.vww-google.com",
+            "webmail.vww-google.com",
+            "www.vww-google.com"
+        ],
+        "parsed.validity.end": "2021-01-24T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "vww-google.com"
+        ],
+        "parsed.serial_number": "272068800575198086773632776951754121958",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-27T01:02:42",
+        "parsed.validity.start": "2020-10-26T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.pozycjonowanie-google.com",
+            "cpcalendars.pozycjonowanie-google.com",
+            "cpcontacts.pozycjonowanie-google.com",
+            "mail.pozycjonowanie-google.com",
+            "pozycjonowanie-google.com",
+            "webdisk.pozycjonowanie-google.com",
+            "webmail.pozycjonowanie-google.com",
+            "www.pozycjonowanie-google.com"
+        ],
+        "parsed.validity.end": "2021-01-17T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "pozycjonowanie-google.com"
+        ],
+        "parsed.serial_number": "312102399831322807481289244236650930393",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-22T02:06:56",
+        "parsed.validity.start": "2020-10-19T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.k-google.com",
+            "cpanel.k-google.com",
+            "cpcalendars.k-google.com",
+            "cpcontacts.k-google.com",
+            "k-google.com",
+            "mail.k-google.com",
+            "webdisk.k-google.com",
+            "webmail.k-google.com",
+            "www.k-google.com"
+        ],
+        "parsed.validity.end": "2020-12-18T12:57:53Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcontacts.k-google.com"
+        ],
+        "parsed.serial_number": "295040744774925311719682120851223246557397",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-19T13:59:39",
+        "parsed.validity.start": "2020-09-19T12:57:53Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.what-is-google.com",
+            "cpcalendars.what-is-google.com",
+            "cpcontacts.what-is-google.com",
+            "mail.what-is-google.com",
+            "webdisk.what-is-google.com",
+            "webmail.what-is-google.com",
+            "what-is-google.com",
+            "whm.what-is-google.com",
+            "www.what-is-google.com"
+        ],
+        "parsed.validity.end": "2021-01-20T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "what-is-google.com"
+        ],
+        "parsed.serial_number": "80771696059436222261708351250485046710",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-23T02:02:34",
+        "parsed.validity.start": "2020-10-22T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com",
+            "youtube.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T19:28:53Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "295520804200238893597894459625098313137163",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T20:30:16",
+        "parsed.validity.start": "2020-10-01T19:28:53Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.wwv-google.com",
+            "cpcalendars.wwv-google.com",
+            "cpcontacts.wwv-google.com",
+            "mail.wwv-google.com",
+            "webdisk.wwv-google.com",
+            "webmail.wwv-google.com",
+            "wwv-google.com",
+            "www.wwv-google.com"
+        ],
+        "parsed.validity.end": "2020-12-31T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "wwv-google.com"
+        ],
+        "parsed.serial_number": "87537506427750048470996678278127590755",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-02T00:18:36",
+        "parsed.validity.start": "2020-10-02T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.we-love-google.com",
+            "cpanel.we-love-google.com",
+            "cpcalendars.we-love-google.com",
+            "cpcontacts.we-love-google.com",
+            "mail.we-love-google.com",
+            "we-love-google.com",
+            "webdisk.we-love-google.com",
+            "webmail.we-love-google.com",
+            "www.we-love-google.com"
+        ],
+        "parsed.validity.end": "2021-02-07T07:31:37Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "mail.we-love-google.com"
+        ],
+        "parsed.serial_number": "383829853312199047942506847230963405693247",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-09T22:00:52",
+        "parsed.validity.start": "2020-11-09T07:31:37Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.islam-google.com",
+            "cpanel.islam-google.com",
+            "cpcalendars.islam-google.com",
+            "cpcontacts.islam-google.com",
+            "islam-google.com",
+            "mail.islam-google.com",
+            "webdisk.islam-google.com",
+            "webmail.islam-google.com",
+            "www.islam-google.com"
+        ],
+        "parsed.validity.end": "2021-02-08T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "islam-google.com"
+        ],
+        "parsed.serial_number": "308559234334859227812345075311701949336",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-14T23:22:50",
+        "parsed.validity.start": "2020-11-10T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.islam-google.com",
+            "cpanel.islam-google.com",
+            "cpcalendars.islam-google.com",
+            "cpcontacts.islam-google.com",
+            "islam-google.com",
+            "mail.islam-google.com",
+            "webdisk.islam-google.com",
+            "webmail.islam-google.com",
+            "www.islam-google.com"
+        ],
+        "parsed.validity.end": "2021-02-08T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "islam-google.com"
+        ],
+        "parsed.serial_number": "308559234334859227812345075311701949336",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-14T23:22:43",
+        "parsed.validity.start": "2020-11-10T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.view-google.com",
+            "cpcalendars.view-google.com",
+            "cpcontacts.view-google.com",
+            "mail.view-google.com",
+            "view-google.com",
+            "webdisk.view-google.com",
+            "webmail.view-google.com",
+            "www.view-google.com"
+        ],
+        "parsed.validity.end": "2021-02-09T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "view-google.com"
+        ],
+        "parsed.serial_number": "269338967551589635868508374483939741385",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-15T17:08:08",
+        "parsed.validity.start": "2020-11-11T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.marketing-google.com",
+            "cpcalendars.marketing-google.com",
+            "cpcontacts.marketing-google.com",
+            "mail.marketing-google.com",
+            "marketing-google.com",
+            "webdisk.marketing-google.com",
+            "webmail.marketing-google.com",
+            "www.marketing-google.com"
+        ],
+        "parsed.validity.end": "2021-01-04T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "marketing-google.com"
+        ],
+        "parsed.serial_number": "62600592211108753759564254738489362300",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-06T19:14:54",
+        "parsed.validity.start": "2020-10-06T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.view-google.com",
+            "cpcalendars.view-google.com",
+            "cpcontacts.view-google.com",
+            "mail.view-google.com",
+            "view-google.com",
+            "webdisk.view-google.com",
+            "webmail.view-google.com",
+            "www.view-google.com"
+        ],
+        "parsed.validity.end": "2021-02-09T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "view-google.com"
+        ],
+        "parsed.serial_number": "269338967551589635868508374483939741385",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-15T17:08:08",
+        "parsed.validity.start": "2020-11-11T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T14:06:52Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "357742267478214793702969433029180801366286",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-02T04:02:26",
+        "parsed.validity.start": "2020-10-01T14:06:52Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com",
+            "youtube.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T19:28:53Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "295520804200238893597894459625098313137163",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T20:30:23",
+        "parsed.validity.start": "2020-10-01T19:28:53Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bing-vs-google.com",
+            "bing-vs-google.com",
+            "cpanel.bing-vs-google.com",
+            "cpcalendars.bing-vs-google.com",
+            "cpcontacts.bing-vs-google.com",
+            "mail.bing-vs-google.com",
+            "webdisk.bing-vs-google.com",
+            "webmail.bing-vs-google.com",
+            "www.bing-vs-google.com"
+        ],
+        "parsed.validity.end": "2020-11-29T03:52:06Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpanel.bing-vs-google.com"
+        ],
+        "parsed.serial_number": "414258338646327556215392107462985660440975",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-31T05:44:26",
+        "parsed.validity.start": "2020-08-31T03:52:06Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.vww-google.com",
+            "cpcalendars.vww-google.com",
+            "cpcontacts.vww-google.com",
+            "mail.vww-google.com",
+            "vww-google.com",
+            "webdisk.vww-google.com",
+            "webmail.vww-google.com",
+            "www.vww-google.com"
+        ],
+        "parsed.validity.end": "2020-12-31T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "vww-google.com"
+        ],
+        "parsed.serial_number": "310818499987386191871069147552387635285",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-02T00:18:40",
+        "parsed.validity.start": "2020-10-02T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "blog.pozycjonowanie-google.com",
+            "cpanel.blog.pozycjonowanie-google.com",
+            "cpcalendars.blog.pozycjonowanie-google.com",
+            "cpcontacts.blog.pozycjonowanie-google.com",
+            "mail.blog.pozycjonowanie-google.com",
+            "webdisk.blog.pozycjonowanie-google.com",
+            "webmail.blog.pozycjonowanie-google.com",
+            "www.blog.pozycjonowanie-google.com"
+        ],
+        "parsed.validity.end": "2021-01-17T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "blog.pozycjonowanie-google.com"
+        ],
+        "parsed.serial_number": "79585203995159608606244958433688914441",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-22T02:07:06",
+        "parsed.validity.start": "2020-10-19T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.hotel-google.com",
+            "cpanel.hotel-google.com",
+            "cpcalendars.hotel-google.com",
+            "cpcontacts.hotel-google.com",
+            "hotel-google.com",
+            "ipv6.hotel-google.com",
+            "mail.hotel-google.com",
+            "webdisk.hotel-google.com",
+            "webmail.hotel-google.com",
+            "www.hotel-google.com"
+        ],
+        "parsed.validity.end": "2021-01-22T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "hotel-google.com"
+        ],
+        "parsed.serial_number": "174994940765958149586496619479214950896",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-28T01:26:34",
+        "parsed.validity.start": "2020-10-24T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.myactivity-google.com",
+            "cpcalendars.myactivity-google.com",
+            "cpcontacts.myactivity-google.com",
+            "mail.myactivity-google.com",
+            "myactivity-google.com",
+            "webdisk.myactivity-google.com",
+            "webmail.myactivity-google.com",
+            "www.myactivity-google.com"
+        ],
+        "parsed.validity.end": "2021-01-09T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "myactivity-google.com"
+        ],
+        "parsed.serial_number": "49021236960781496272247369633514710189",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T17:19:57",
+        "parsed.validity.start": "2020-10-11T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.k-google.com",
+            "cpanel.k-google.com",
+            "cpcalendars.k-google.com",
+            "cpcontacts.k-google.com",
+            "k-google.com",
+            "mail.k-google.com",
+            "webdisk.k-google.com",
+            "webmail.k-google.com",
+            "www.k-google.com"
+        ],
+        "parsed.validity.end": "2020-12-18T12:57:53Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcontacts.k-google.com"
+        ],
+        "parsed.serial_number": "295040744774925311719682120851223246557397",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-19T13:59:39",
+        "parsed.validity.start": "2020-09-19T12:57:53Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.my-email-google.com",
+            "cpcalendars.my-email-google.com",
+            "cpcontacts.my-email-google.com",
+            "mail.my-email-google.com",
+            "my-email-google.com",
+            "webdisk.my-email-google.com",
+            "webmail.my-email-google.com",
+            "www.my-email-google.com"
+        ],
+        "parsed.validity.end": "2021-01-28T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "my-email-google.com"
+        ],
+        "parsed.serial_number": "66884347337749675798553639924267250580",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-02T00:22:10",
+        "parsed.validity.start": "2020-10-30T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-29T20:11:34Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "299845585769939636014377205047579270468447",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-30T21:13:17",
+        "parsed.validity.start": "2020-09-30T20:11:34Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.pozycjonowanie-google.com",
+            "cpcalendars.pozycjonowanie-google.com",
+            "cpcontacts.pozycjonowanie-google.com",
+            "mail.pozycjonowanie-google.com",
+            "pozycjonowanie-google.com",
+            "webdisk.pozycjonowanie-google.com",
+            "webmail.pozycjonowanie-google.com",
+            "www.pozycjonowanie-google.com"
+        ],
+        "parsed.validity.end": "2021-01-17T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "pozycjonowanie-google.com"
+        ],
+        "parsed.serial_number": "312102399831322807481289244236650930393",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T17:50:40",
+        "parsed.validity.start": "2020-10-19T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-28T13:26:47Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "308579648829478926042984218763085687843122",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-29T14:28:23",
+        "parsed.validity.start": "2020-09-29T13:26:47Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.business-google.com",
+            "business-google.com",
+            "business-google.com.veloregister.bg",
+            "cpanel.business-google.com",
+            "mail.business-google.com",
+            "webdisk.business-google.com",
+            "webmail.business-google.com",
+            "www.business-google.com",
+            "www.business-google.com.veloregister.bg"
+        ],
+        "parsed.validity.end": "2021-01-29T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "business-google.com"
+        ],
+        "parsed.serial_number": "161508570160662593310391177364659127972",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-02T07:47:33",
+        "parsed.validity.start": "2020-10-31T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.publicidad-en-google-anuncios-google.com",
+            "cpanel.publicidad-en-google-anuncios-google.com",
+            "cpcalendars.publicidad-en-google-anuncios-google.com",
+            "cpcontacts.publicidad-en-google-anuncios-google.com",
+            "mail.publicidad-en-google-anuncios-google.com",
+            "publicidad-en-google-anuncios-google.com",
+            "webdisk.publicidad-en-google-anuncios-google.com",
+            "webmail.publicidad-en-google-anuncios-google.com",
+            "www.publicidad-en-google-anuncios-google.com"
+        ],
+        "parsed.validity.end": "2021-01-16T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "publicidad-en-google-anuncios-google.com"
+        ],
+        "parsed.serial_number": "251298880889926854086126637428327061308",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T14:13:42",
+        "parsed.validity.start": "2020-10-18T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.view-google.com",
+            "cpcalendars.view-google.com",
+            "cpcontacts.view-google.com",
+            "mail.view-google.com",
+            "view-google.com",
+            "webdisk.view-google.com",
+            "webmail.view-google.com",
+            "www.view-google.com"
+        ],
+        "parsed.validity.end": "2020-11-23T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "view-google.com"
+        ],
+        "parsed.serial_number": "337604891187811374390644586869249770805",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-25T07:53:32",
+        "parsed.validity.start": "2020-08-25T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bnb-google.com",
+            "bnb-google.com",
+            "cpanel.bnb-google.com",
+            "cpcalendars.bnb-google.com",
+            "cpcontacts.bnb-google.com",
+            "ipv6.bnb-google.com",
+            "mail.bnb-google.com",
+            "webdisk.bnb-google.com",
+            "webmail.bnb-google.com",
+            "www.bnb-google.com"
+        ],
+        "parsed.validity.end": "2021-02-09T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "bnb-google.com"
+        ],
+        "parsed.serial_number": "35802055025408872459706122391867165441",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-15T20:05:48",
+        "parsed.validity.start": "2020-11-11T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.wwv-google.com",
+            "cpcalendars.wwv-google.com",
+            "cpcontacts.wwv-google.com",
+            "mail.wwv-google.com",
+            "webdisk.wwv-google.com",
+            "webmail.wwv-google.com",
+            "wwv-google.com",
+            "www.wwv-google.com"
+        ],
+        "parsed.validity.end": "2021-01-06T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "wwv-google.com"
+        ],
+        "parsed.serial_number": "268695353513684233613651475383424828702",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-08T02:14:16",
+        "parsed.validity.start": "2020-10-08T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.vww-google.com",
+            "cpcalendars.vww-google.com",
+            "cpcontacts.vww-google.com",
+            "mail.vww-google.com",
+            "vww-google.com",
+            "webdisk.vww-google.com",
+            "webmail.vww-google.com",
+            "www.vww-google.com"
+        ],
+        "parsed.validity.end": "2020-12-31T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "vww-google.com"
+        ],
+        "parsed.serial_number": "310818499987386191871069147552387635285",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-02T00:18:47",
+        "parsed.validity.start": "2020-10-02T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.vww-google.com",
+            "cpcalendars.vww-google.com",
+            "cpcontacts.vww-google.com",
+            "mail.vww-google.com",
+            "vww-google.com",
+            "webdisk.vww-google.com",
+            "webmail.vww-google.com",
+            "www.vww-google.com"
+        ],
+        "parsed.validity.end": "2021-01-24T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "vww-google.com"
+        ],
+        "parsed.serial_number": "272068800575198086773632776951754121958",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-27T01:02:26",
+        "parsed.validity.start": "2020-10-26T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.wwv-google.com",
+            "cpcalendars.wwv-google.com",
+            "cpcontacts.wwv-google.com",
+            "mail.wwv-google.com",
+            "webdisk.wwv-google.com",
+            "webmail.wwv-google.com",
+            "wwv-google.com",
+            "www.wwv-google.com"
+        ],
+        "parsed.validity.end": "2020-12-31T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "wwv-google.com"
+        ],
+        "parsed.serial_number": "87537506427750048470996678278127590755",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-14T07:54:13",
+        "parsed.validity.start": "2020-10-02T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.myactivity-google.com",
+            "cpcalendars.myactivity-google.com",
+            "cpcontacts.myactivity-google.com",
+            "mail.myactivity-google.com",
+            "myactivity-google.com",
+            "webdisk.myactivity-google.com",
+            "webmail.myactivity-google.com",
+            "www.myactivity-google.com"
+        ],
+        "parsed.validity.end": "2021-01-09T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "myactivity-google.com"
+        ],
+        "parsed.serial_number": "49021236960781496272247369633514710189",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T16:26:32",
+        "parsed.validity.start": "2020-10-11T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.view-google.com",
+            "cpcalendars.view-google.com",
+            "cpcontacts.view-google.com",
+            "mail.view-google.com",
+            "view-google.com",
+            "webdisk.view-google.com",
+            "webmail.view-google.com",
+            "www.view-google.com"
+        ],
+        "parsed.validity.end": "2020-11-23T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "view-google.com"
+        ],
+        "parsed.serial_number": "337604891187811374390644586869249770805",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-25T07:53:40",
+        "parsed.validity.start": "2020-08-25T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.what-is-google.com",
+            "cpcalendars.what-is-google.com",
+            "cpcontacts.what-is-google.com",
+            "mail.what-is-google.com",
+            "webdisk.what-is-google.com",
+            "webmail.what-is-google.com",
+            "what-is-google.com",
+            "whm.what-is-google.com",
+            "www.what-is-google.com"
+        ],
+        "parsed.validity.end": "2021-01-20T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "what-is-google.com"
+        ],
+        "parsed.serial_number": "80771696059436222261708351250485046710",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-23T02:02:25",
+        "parsed.validity.start": "2020-10-22T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.marketing-google.com",
+            "cpcalendars.marketing-google.com",
+            "cpcontacts.marketing-google.com",
+            "mail.marketing-google.com",
+            "marketing-google.com",
+            "webdisk.marketing-google.com",
+            "webmail.marketing-google.com",
+            "www.marketing-google.com"
+        ],
+        "parsed.validity.end": "2021-01-04T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "marketing-google.com"
+        ],
+        "parsed.serial_number": "62600592211108753759564254738489362300",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-09T20:15:00",
+        "parsed.validity.start": "2020-10-06T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.publicidad-en-google-anuncios-google.com",
+            "cpanel.publicidad-en-google-anuncios-google.com",
+            "cpcalendars.publicidad-en-google-anuncios-google.com",
+            "cpcontacts.publicidad-en-google-anuncios-google.com",
+            "mail.publicidad-en-google-anuncios-google.com",
+            "publicidad-en-google-anuncios-google.com",
+            "webdisk.publicidad-en-google-anuncios-google.com",
+            "webmail.publicidad-en-google-anuncios-google.com",
+            "www.publicidad-en-google-anuncios-google.com"
+        ],
+        "parsed.validity.end": "2021-01-16T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "publicidad-en-google-anuncios-google.com"
+        ],
+        "parsed.serial_number": "251298880889926854086126637428327061308",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T01:13:13",
+        "parsed.validity.start": "2020-10-18T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-29T20:19:10Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "344838553460123198820148755519737689462744",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T10:02:47",
+        "parsed.validity.start": "2020-09-30T20:19:10Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "australia-magazine-today.com",
+            "australia-magazine-today.mediandnews.com",
+            "autodiscover.australia-magazine-today.com",
+            "autodiscover.mogel-google.com",
+            "cpanel.australia-magazine-today.com",
+            "cpanel.mogel-google.com",
+            "cpcalendars.australia-magazine-today.com",
+            "cpcalendars.mogel-google.com",
+            "cpcontacts.australia-magazine-today.com",
+            "cpcontacts.mogel-google.com",
+            "mail.australia-magazine-today.com",
+            "mail.mogel-google.com",
+            "mogel-google.com",
+            "mogel-google.mediandnews.com",
+            "webdisk.australia-magazine-today.com",
+            "webdisk.mogel-google.com",
+            "webmail.australia-magazine-today.com",
+            "webmail.mogel-google.com",
+            "www.australia-magazine-today.com",
+            "www.australia-magazine-today.mediandnews.com",
+            "www.mogel-google.com",
+            "www.mogel-google.mediandnews.com"
+        ],
+        "parsed.validity.end": "2021-01-14T09:44:39Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.australia-magazine-today.mediandnews.com"
+        ],
+        "parsed.serial_number": "405825127843611691853466192275804225734420",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T13:07:15",
+        "parsed.validity.start": "2020-10-16T09:44:39Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-28T13:26:47Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "308579648829478926042984218763085687843122",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-29T14:28:21",
+        "parsed.validity.start": "2020-09-29T13:26:47Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.page-rank-google.com",
+            "cpcalendars.page-rank-google.com",
+            "cpcontacts.page-rank-google.com",
+            "mail.page-rank-google.com",
+            "page-rank-google.com",
+            "webdisk.page-rank-google.com",
+            "webmail.page-rank-google.com",
+            "www.page-rank-google.com"
+        ],
+        "parsed.validity.end": "2021-01-15T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "page-rank-google.com"
+        ],
+        "parsed.serial_number": "44506502416184966501776857883205116518",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T05:26:48",
+        "parsed.validity.start": "2020-10-17T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.iwww-google.com",
+            "cpcalendars.iwww-google.com",
+            "cpcontacts.iwww-google.com",
+            "iwww-google.com",
+            "mail.iwww-google.com",
+            "webdisk.iwww-google.com",
+            "webmail.iwww-google.com",
+            "www.iwww-google.com"
+        ],
+        "parsed.validity.end": "2021-01-22T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "iwww-google.com"
+        ],
+        "parsed.serial_number": "97289370132988618685438569174380407302",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-24T22:22:14",
+        "parsed.validity.start": "2020-10-24T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.iwww-google.com",
+            "cpcalendars.iwww-google.com",
+            "cpcontacts.iwww-google.com",
+            "iwww-google.com",
+            "mail.iwww-google.com",
+            "webdisk.iwww-google.com",
+            "webmail.iwww-google.com",
+            "www.iwww-google.com"
+        ],
+        "parsed.validity.end": "2021-01-04T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "iwww-google.com"
+        ],
+        "parsed.serial_number": "99374044081386719100314285092425386847",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-06T12:20:16",
+        "parsed.validity.start": "2020-10-06T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "b.stats.paypal.verification-google.com",
+            "c.paypal.verification-google.com",
+            "c6.paypal.verification-google.com",
+            "hnd.stats.paypal.verification-google.com",
+            "paypal.verification-google.com",
+            "t.paypal.verification-google.com",
+            "www.paypal.verification-google.com"
+        ],
+        "parsed.validity.end": "2020-12-21T11:30:48Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.paypal.verification-google.com"
+        ],
+        "parsed.serial_number": "265142825997946055150261807222740443818110",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-23T02:00:35",
+        "parsed.validity.start": "2020-09-22T11:30:48Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-30T14:06:52Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "357742267478214793702969433029180801366286",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-01T15:08:38",
+        "parsed.validity.start": "2020-10-01T14:06:52Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "b.stats.paypal.verification-google.com",
+            "c.paypal.verification-google.com",
+            "c6.paypal.verification-google.com",
+            "hnd.stats.paypal.verification-google.com",
+            "paypal.verification-google.com",
+            "t.paypal.verification-google.com",
+            "www.paypal.verification-google.com"
+        ],
+        "parsed.validity.end": "2020-12-21T11:30:48Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.paypal.verification-google.com"
+        ],
+        "parsed.serial_number": "265142825997946055150261807222740443818110",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-22T12:32:10",
+        "parsed.validity.start": "2020-09-22T11:30:48Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "australia-magazine-today.com",
+            "australia-magazine-today.mediandnews.com",
+            "autodiscover.australia-magazine-today.com",
+            "autodiscover.mogel-google.com",
+            "cpanel.australia-magazine-today.com",
+            "cpanel.mogel-google.com",
+            "cpcalendars.australia-magazine-today.com",
+            "cpcalendars.mogel-google.com",
+            "cpcontacts.australia-magazine-today.com",
+            "cpcontacts.mogel-google.com",
+            "mail.australia-magazine-today.com",
+            "mail.mogel-google.com",
+            "mogel-google.com",
+            "mogel-google.mediandnews.com",
+            "webdisk.australia-magazine-today.com",
+            "webdisk.mogel-google.com",
+            "webmail.australia-magazine-today.com",
+            "webmail.mogel-google.com",
+            "www.australia-magazine-today.com",
+            "www.australia-magazine-today.mediandnews.com",
+            "www.mogel-google.com",
+            "www.mogel-google.mediandnews.com"
+        ],
+        "parsed.validity.end": "2021-01-14T09:44:39Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.australia-magazine-today.mediandnews.com"
+        ],
+        "parsed.serial_number": "405825127843611691853466192275804225734420",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T01:39:58",
+        "parsed.validity.start": "2020-10-16T09:44:39Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "accounts.accoounts-google.com",
+            "apis.accoounts-google.com",
+            "content.accoounts-google.com",
+            "myaccount.accoounts-google.com",
+            "play.accoounts-google.com",
+            "ssl.accoounts-google.com",
+            "www.accoounts-google.com"
+        ],
+        "parsed.validity.end": "2020-12-29T20:19:10Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.accoounts-google.com"
+        ],
+        "parsed.serial_number": "344838553460123198820148755519737689462744",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-30T21:20:44",
+        "parsed.validity.start": "2020-09-30T20:19:10Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.comunicati-stampa-online.com",
+            "autodiscover.preventivi-posizionamento-su-google.com",
+            "comunicati-stampa-online.com",
+            "cpanel.comunicati-stampa-online.com",
+            "cpanel.preventivi-posizionamento-su-google.com",
+            "cpcalendars.comunicati-stampa-online.com",
+            "cpcalendars.preventivi-posizionamento-su-google.com",
+            "cpcontacts.comunicati-stampa-online.com",
+            "cpcontacts.preventivi-posizionamento-su-google.com",
+            "mail.comunicati-stampa-online.com",
+            "mail.preventivi-posizionamento-su-google.com",
+            "posizionamento.comunicati-stampa-online.com",
+            "preventivi-posizionamento-su-google.com",
+            "webdisk.comunicati-stampa-online.com",
+            "webdisk.preventivi-posizionamento-su-google.com",
+            "webmail.comunicati-stampa-online.com",
+            "webmail.preventivi-posizionamento-su-google.com",
+            "www.comunicati-stampa-online.com",
+            "www.posizionamento.comunicati-stampa-online.com",
+            "www.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.validity.end": "2020-12-06T10:51:19Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "webdisk.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.serial_number": "416069457123662460577050731510828349805080",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-07T12:09:14",
+        "parsed.validity.start": "2020-09-07T10:51:19Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.preventivi-hosting.com",
+            "autodiscover.preventivi-posizionamento-su-google.com",
+            "cpanel.preventivi-hosting.com",
+            "cpanel.preventivi-posizionamento-su-google.com",
+            "cpcalendars.preventivi-hosting.com",
+            "cpcalendars.preventivi-posizionamento-su-google.com",
+            "cpcontacts.preventivi-hosting.com",
+            "cpcontacts.preventivi-posizionamento-su-google.com",
+            "mail.preventivi-hosting.com",
+            "mail.preventivi-posizionamento-su-google.com",
+            "posizionamento.comunicati-stampa-online.com",
+            "preventivi-hosting.com",
+            "preventivi-hosting.comunicati-stampa-online.com",
+            "preventivi-posizionamento-su-google.com",
+            "webdisk.preventivi-hosting.com",
+            "webdisk.preventivi-posizionamento-su-google.com",
+            "webmail.preventivi-hosting.com",
+            "webmail.preventivi-posizionamento-su-google.com",
+            "www.posizionamento.comunicati-stampa-online.com",
+            "www.preventivi-hosting.com",
+            "www.preventivi-hosting.comunicati-stampa-online.com",
+            "www.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.validity.end": "2021-02-05T11:09:07Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpanel.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.serial_number": "347962018755649959040977588876726363039194",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-11T11:24:57",
+        "parsed.validity.start": "2020-11-07T11:09:07Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "cpanel.page-rank-google.com",
+            "cpcalendars.page-rank-google.com",
+            "cpcontacts.page-rank-google.com",
+            "mail.page-rank-google.com",
+            "page-rank-google.com",
+            "webdisk.page-rank-google.com",
+            "webmail.page-rank-google.com",
+            "www.page-rank-google.com"
+        ],
+        "parsed.validity.end": "2021-01-15T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "page-rank-google.com"
+        ],
+        "parsed.serial_number": "44506502416184966501776857883205116518",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T07:13:32",
+        "parsed.validity.start": "2020-10-17T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "agencia-de-marketing-online.alquiler-furgonetas-conductor.com",
+            "autodiscover.posicionamiento-natural-google.com",
+            "autodiscover.posicionamiento-natural-web.org",
+            "cpanel.posicionamiento-natural-google.com",
+            "cpanel.posicionamiento-natural-web.org",
+            "cpcalendars.posicionamiento-natural-google.com",
+            "cpcalendars.posicionamiento-natural-web.org",
+            "cpcontacts.posicionamiento-natural-google.com",
+            "cpcontacts.posicionamiento-natural-web.org",
+            "mail.posicionamiento-natural-google.com",
+            "mail.posicionamiento-natural-web.org",
+            "posicionamiento-natural-google.alquiler-furgonetas-conductor.com",
+            "posicionamiento-natural-google.com",
+            "posicionamiento-natural-web.org",
+            "webdisk.posicionamiento-natural-google.com",
+            "webdisk.posicionamiento-natural-web.org",
+            "webmail.posicionamiento-natural-google.com",
+            "webmail.posicionamiento-natural-web.org",
+            "www.agencia-de-marketing-online.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-natural-google.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-natural-google.com",
+            "www.posicionamiento-natural-web.org"
+        ],
+        "parsed.validity.end": "2021-01-13T18:52:07Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcontacts.posicionamiento-natural-google.com"
+        ],
+        "parsed.serial_number": "325896737812250548314140849857715601458634",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T11:58:43",
+        "parsed.validity.start": "2020-10-15T18:52:07Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bts-lover.com",
+            "blog.k-google.com",
+            "bts-lover.com",
+            "bts-lover.k-google.com",
+            "cpanel.bts-lover.com",
+            "cpcalendars.bts-lover.com",
+            "cpcontacts.bts-lover.com",
+            "kpops.k-google.com",
+            "mail.bts-lover.com",
+            "webdisk.bts-lover.com",
+            "webmail.bts-lover.com",
+            "www.blog.k-google.com",
+            "www.bts-lover.com",
+            "www.bts-lover.k-google.com",
+            "www.kpops.k-google.com"
+        ],
+        "parsed.validity.end": "2021-01-05T12:57:56Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "autodiscover.bts-lover.com"
+        ],
+        "parsed.serial_number": "382482488840881995345397992680428692793355",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-08T03:05:18",
+        "parsed.validity.start": "2020-10-07T12:57:56Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.preventivi-hosting.com",
+            "autodiscover.preventivi-posizionamento-su-google.com",
+            "cpanel.preventivi-hosting.com",
+            "cpanel.preventivi-posizionamento-su-google.com",
+            "cpcalendars.preventivi-hosting.com",
+            "cpcalendars.preventivi-posizionamento-su-google.com",
+            "cpcontacts.preventivi-hosting.com",
+            "cpcontacts.preventivi-posizionamento-su-google.com",
+            "mail.preventivi-hosting.com",
+            "mail.preventivi-posizionamento-su-google.com",
+            "posizionamento.comunicati-stampa-online.com",
+            "preventivi-hosting.com",
+            "preventivi-hosting.comunicati-stampa-online.com",
+            "preventivi-posizionamento-su-google.com",
+            "webdisk.preventivi-hosting.com",
+            "webdisk.preventivi-posizionamento-su-google.com",
+            "webmail.preventivi-hosting.com",
+            "webmail.preventivi-posizionamento-su-google.com",
+            "www.posizionamento.comunicati-stampa-online.com",
+            "www.preventivi-hosting.com",
+            "www.preventivi-hosting.comunicati-stampa-online.com",
+            "www.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.validity.end": "2021-02-05T11:09:07Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpanel.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.serial_number": "347962018755649959040977588876726363039194",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-11T11:24:47",
+        "parsed.validity.start": "2020-11-07T11:09:07Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "amazon.com-freebonus.club",
+            "amazon.com-freebonus.online",
+            "amazon.com-freebonus.xyz",
+            "amazon.com-freeprize.club",
+            "amazon.com-freeprize.net",
+            "amazon.com-freeprize.online",
+            "amazon.com-freeprize.shop",
+            "amazon.com-freeprize.xyz",
+            "amazon.com-giftcenter.club",
+            "amazon.com-giftcenter.net",
+            "amazon.com-giftcenter.online",
+            "amazon.com-giftcenter.shop",
+            "amazon.com-giftcenter.xyz",
+            "com-freebonus.club",
+            "com-freebonus.online",
+            "com-freebonus.xyz",
+            "com-freeprize.club",
+            "com-freeprize.net",
+            "com-freeprize.online",
+            "com-freeprize.shop",
+            "com-freeprize.xyz",
+            "com-giftcenter.club",
+            "com-giftcenter.net",
+            "com-giftcenter.online",
+            "com-giftcenter.shop",
+            "com-giftcenter.xyz",
+            "facebook.com-freebonus.club",
+            "facebook.com-freebonus.online",
+            "facebook.com-freebonus.xyz",
+            "facebook.com-freeprize.club",
+            "facebook.com-freeprize.net",
+            "facebook.com-freeprize.online",
+            "facebook.com-freeprize.shop",
+            "facebook.com-freeprize.xyz",
+            "facebook.com-giftcenter.club",
+            "facebook.com-giftcenter.net",
+            "facebook.com-giftcenter.online",
+            "facebook.com-giftcenter.shop",
+            "facebook.com-giftcenter.xyz",
+            "google.com-freebonus.club",
+            "google.com-freebonus.online",
+            "google.com-freebonus.xyz",
+            "google.com-freeprize.club",
+            "google.com-freeprize.net",
+            "google.com-freeprize.online",
+            "google.com-freeprize.shop",
+            "google.com-freeprize.xyz",
+            "google.com-giftcenter.club",
+            "google.com-giftcenter.net",
+            "google.com-giftcenter.online",
+            "google.com-giftcenter.shop",
+            "google.com-giftcenter.xyz",
+            "www.com-freebonus.club",
+            "www.com-freebonus.online",
+            "www.com-freebonus.xyz",
+            "www.com-freeprize.club",
+            "www.com-freeprize.net",
+            "www.com-freeprize.online",
+            "www.com-freeprize.shop",
+            "www.com-freeprize.xyz",
+            "www.com-giftcenter.club",
+            "www.com-giftcenter.net",
+            "www.com-giftcenter.online",
+            "www.com-giftcenter.shop",
+            "www.com-giftcenter.xyz"
+        ],
+        "parsed.validity.end": "2021-09-30T12:00:00Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 34171200,
+        "parsed.subject.common_name": [
+            "com-freeprize.online"
+        ],
+        "parsed.serial_number": "3649171204951201353309185068622818543",
+        "parsed.issuer.common_name": [
+            "Amazon"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-31T07:38:17",
+        "parsed.validity.start": "2020-08-31T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.business-google.com",
+            "business-google.com",
+            "business-google.com.veloregister.bg",
+            "cpanel.business-google.com",
+            "mail.business-google.com",
+            "webdisk.business-google.com",
+            "webmail.business-google.com",
+            "www.business-google.com",
+            "www.business-google.com.veloregister.bg"
+        ],
+        "parsed.validity.end": "2021-01-29T23:59:59Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "business-google.com"
+        ],
+        "parsed.serial_number": "161508570160662593310391177364659127972",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-11-03T14:19:35",
+        "parsed.validity.start": "2020-10-31T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "agencia-marketing-online.alquiler-furgonetas-conductor.com",
+            "autodiscover.posicionamiento-seo-google.com",
+            "autodiscover.posicionar-paginas-web.org",
+            "cpanel.posicionamiento-seo-google.com",
+            "cpanel.posicionar-paginas-web.org",
+            "cpcalendars.posicionamiento-seo-google.com",
+            "cpcalendars.posicionar-paginas-web.org",
+            "cpcontacts.posicionamiento-seo-google.com",
+            "cpcontacts.posicionar-paginas-web.org",
+            "mail.posicionamiento-seo-google.com",
+            "mail.posicionar-paginas-web.org",
+            "posicionamiento-seo-google.alquiler-furgonetas-conductor.com",
+            "posicionamiento-seo-google.com",
+            "posicionar-paginas-web.org",
+            "webdisk.posicionamiento-seo-google.com",
+            "webdisk.posicionar-paginas-web.org",
+            "webmail.posicionamiento-seo-google.com",
+            "webmail.posicionar-paginas-web.org",
+            "www.agencia-marketing-online.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-seo-google.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-seo-google.com",
+            "www.posicionar-paginas-web.org"
+        ],
+        "parsed.validity.end": "2021-01-13T18:52:11Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.posicionar-paginas-web.org"
+        ],
+        "parsed.serial_number": "311262210620910363728684088213974851747443",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T11:18:06",
+        "parsed.validity.start": "2020-10-15T18:52:11Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "agencia-de-marketing-online.alquiler-furgonetas-conductor.com",
+            "autodiscover.posicionamiento-natural-google.com",
+            "autodiscover.posicionamiento-natural-web.org",
+            "cpanel.posicionamiento-natural-google.com",
+            "cpanel.posicionamiento-natural-web.org",
+            "cpcalendars.posicionamiento-natural-google.com",
+            "cpcalendars.posicionamiento-natural-web.org",
+            "cpcontacts.posicionamiento-natural-google.com",
+            "cpcontacts.posicionamiento-natural-web.org",
+            "mail.posicionamiento-natural-google.com",
+            "mail.posicionamiento-natural-web.org",
+            "posicionamiento-natural-google.alquiler-furgonetas-conductor.com",
+            "posicionamiento-natural-google.com",
+            "posicionamiento-natural-web.org",
+            "webdisk.posicionamiento-natural-google.com",
+            "webdisk.posicionamiento-natural-web.org",
+            "webmail.posicionamiento-natural-google.com",
+            "webmail.posicionamiento-natural-web.org",
+            "www.agencia-de-marketing-online.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-natural-google.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-natural-google.com",
+            "www.posicionamiento-natural-web.org"
+        ],
+        "parsed.validity.end": "2021-01-13T18:52:07Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "cpcontacts.posicionamiento-natural-google.com"
+        ],
+        "parsed.serial_number": "325896737812250548314140849857715601458634",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T00:54:48",
+        "parsed.validity.start": "2020-10-15T18:52:07Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "amazon.com-freebonus.club",
+            "amazon.com-freebonus.online",
+            "amazon.com-freebonus.xyz",
+            "amazon.com-freeprize.club",
+            "amazon.com-freeprize.net",
+            "amazon.com-freeprize.online",
+            "amazon.com-freeprize.shop",
+            "amazon.com-freeprize.xyz",
+            "amazon.com-giftcenter.club",
+            "amazon.com-giftcenter.net",
+            "amazon.com-giftcenter.online",
+            "amazon.com-giftcenter.shop",
+            "amazon.com-giftcenter.xyz",
+            "com-freebonus.club",
+            "com-freebonus.online",
+            "com-freebonus.xyz",
+            "com-freeprize.club",
+            "com-freeprize.net",
+            "com-freeprize.online",
+            "com-freeprize.shop",
+            "com-freeprize.xyz",
+            "com-giftcenter.club",
+            "com-giftcenter.net",
+            "com-giftcenter.online",
+            "com-giftcenter.shop",
+            "com-giftcenter.xyz",
+            "facebook.com-freebonus.club",
+            "facebook.com-freebonus.online",
+            "facebook.com-freebonus.xyz",
+            "facebook.com-freeprize.club",
+            "facebook.com-freeprize.net",
+            "facebook.com-freeprize.online",
+            "facebook.com-freeprize.shop",
+            "facebook.com-freeprize.xyz",
+            "facebook.com-giftcenter.club",
+            "facebook.com-giftcenter.net",
+            "facebook.com-giftcenter.online",
+            "facebook.com-giftcenter.shop",
+            "facebook.com-giftcenter.xyz",
+            "google.com-freebonus.club",
+            "google.com-freebonus.online",
+            "google.com-freebonus.xyz",
+            "google.com-freeprize.club",
+            "google.com-freeprize.net",
+            "google.com-freeprize.online",
+            "google.com-freeprize.shop",
+            "google.com-freeprize.xyz",
+            "google.com-giftcenter.club",
+            "google.com-giftcenter.net",
+            "google.com-giftcenter.online",
+            "google.com-giftcenter.shop",
+            "google.com-giftcenter.xyz",
+            "www.com-freebonus.club",
+            "www.com-freebonus.online",
+            "www.com-freebonus.xyz",
+            "www.com-freeprize.club",
+            "www.com-freeprize.net",
+            "www.com-freeprize.online",
+            "www.com-freeprize.shop",
+            "www.com-freeprize.xyz",
+            "www.com-giftcenter.club",
+            "www.com-giftcenter.net",
+            "www.com-giftcenter.online",
+            "www.com-giftcenter.shop",
+            "www.com-giftcenter.xyz"
+        ],
+        "parsed.validity.end": "2021-09-30T12:00:00Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 34171200,
+        "parsed.subject.common_name": [
+            "com-freeprize.online"
+        ],
+        "parsed.serial_number": "3649171204951201353309185068622818543",
+        "parsed.issuer.common_name": [
+            "Amazon"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-05T20:44:59",
+        "parsed.validity.start": "2020-08-31T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.comunicati-stampa-online.com",
+            "autodiscover.preventivi-posizionamento-su-google.com",
+            "comunicati-stampa-online.com",
+            "cpanel.comunicati-stampa-online.com",
+            "cpanel.preventivi-posizionamento-su-google.com",
+            "cpcalendars.comunicati-stampa-online.com",
+            "cpcalendars.preventivi-posizionamento-su-google.com",
+            "cpcontacts.comunicati-stampa-online.com",
+            "cpcontacts.preventivi-posizionamento-su-google.com",
+            "mail.comunicati-stampa-online.com",
+            "mail.preventivi-posizionamento-su-google.com",
+            "posizionamento.comunicati-stampa-online.com",
+            "preventivi-posizionamento-su-google.com",
+            "webdisk.comunicati-stampa-online.com",
+            "webdisk.preventivi-posizionamento-su-google.com",
+            "webmail.comunicati-stampa-online.com",
+            "webmail.preventivi-posizionamento-su-google.com",
+            "www.comunicati-stampa-online.com",
+            "www.posizionamento.comunicati-stampa-online.com",
+            "www.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.validity.end": "2020-12-06T10:51:19Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "webdisk.preventivi-posizionamento-su-google.com"
+        ],
+        "parsed.serial_number": "416069457123662460577050731510828349805080",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-09-07T11:52:45",
+        "parsed.validity.start": "2020-09-07T10:51:19Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "agencia-marketing-online.alquiler-furgonetas-conductor.com",
+            "autodiscover.posicionamiento-seo-google.com",
+            "autodiscover.posicionar-paginas-web.org",
+            "cpanel.posicionamiento-seo-google.com",
+            "cpanel.posicionar-paginas-web.org",
+            "cpcalendars.posicionamiento-seo-google.com",
+            "cpcalendars.posicionar-paginas-web.org",
+            "cpcontacts.posicionamiento-seo-google.com",
+            "cpcontacts.posicionar-paginas-web.org",
+            "mail.posicionamiento-seo-google.com",
+            "mail.posicionar-paginas-web.org",
+            "posicionamiento-seo-google.alquiler-furgonetas-conductor.com",
+            "posicionamiento-seo-google.com",
+            "posicionar-paginas-web.org",
+            "webdisk.posicionamiento-seo-google.com",
+            "webdisk.posicionar-paginas-web.org",
+            "webmail.posicionamiento-seo-google.com",
+            "webmail.posicionar-paginas-web.org",
+            "www.agencia-marketing-online.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-seo-google.alquiler-furgonetas-conductor.com",
+            "www.posicionamiento-seo-google.com",
+            "www.posicionar-paginas-web.org"
+        ],
+        "parsed.validity.end": "2021-01-13T18:52:11Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "precert",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "www.posicionar-paginas-web.org"
+        ],
+        "parsed.serial_number": "311262210620910363728684088213974851747443",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-20T15:26:54",
+        "parsed.validity.start": "2020-10-15T18:52:11Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "autodiscover.bts-lover.com",
+            "blog.k-google.com",
+            "bts-lover.com",
+            "bts-lover.k-google.com",
+            "cpanel.bts-lover.com",
+            "cpcalendars.bts-lover.com",
+            "cpcontacts.bts-lover.com",
+            "kpops.k-google.com",
+            "mail.bts-lover.com",
+            "webdisk.bts-lover.com",
+            "webmail.bts-lover.com",
+            "www.blog.k-google.com",
+            "www.bts-lover.com",
+            "www.bts-lover.k-google.com",
+            "www.kpops.k-google.com"
+        ],
+        "parsed.validity.end": "2021-01-05T12:57:56Z",
+        "tags": [
+            "unexpired",
+            "leaf",
+            "google-ct",
+            "dv",
+            "trusted",
+            "ct"
+        ],
+        "parsed.validity.length": 7776000,
+        "parsed.subject.common_name": [
+            "autodiscover.bts-lover.com"
+        ],
+        "parsed.serial_number": "382482488840881995345397992680428692793355",
+        "parsed.issuer.common_name": [
+            "Let's Encrypt Authority X3"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-07T13:59:07",
+        "parsed.validity.start": "2020-10-07T12:57:56Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "goodhoteltaipei.bnb-google.com",
+            "www.goodhoteltaipei.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-28T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "goodhoteltaipei.bnb-google.com"
+        ],
+        "parsed.serial_number": "257770719673076072254969993648250880991",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-30T02:33:18",
+        "parsed.validity.start": "2020-08-30T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "royalqosqo.hotel-google.com",
+            "www.royalqosqo.hotel-google.com"
+        ],
+        "parsed.validity.end": "2020-11-25T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "royalqosqo.hotel-google.com"
+        ],
+        "parsed.serial_number": "216230263779041792150674023615936358509",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-27T22:59:23",
+        "parsed.validity.start": "2020-08-27T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "saintsimon.bnb-google.com",
+            "www.saintsimon.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-25T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "saintsimon.bnb-google.com"
+        ],
+        "parsed.serial_number": "146474041378165622628208439134793223709",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-27T02:38:20",
+        "parsed.validity.start": "2020-08-27T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "waves.hotel-google.com",
+            "www.waves.hotel-google.com"
+        ],
+        "parsed.validity.end": "2021-01-04T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "waves.hotel-google.com"
+        ],
+        "parsed.serial_number": "87603494936345141024379089512656379098",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-10-06T23:22:28",
+        "parsed.validity.start": "2020-10-06T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "excelsiormadrid.bnb-google.com",
+            "www.excelsiormadrid.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-26T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "excelsiormadrid.bnb-google.com"
+        ],
+        "parsed.serial_number": "170829344865446954600672377641579728099",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-28T02:43:11",
+        "parsed.validity.start": "2020-08-28T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "rhodesgem.hotel-google.com",
+            "www.rhodesgem.hotel-google.com"
+        ],
+        "parsed.validity.end": "2020-11-15T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "rhodesgem.hotel-google.com"
+        ],
+        "parsed.serial_number": "183121290342900479463621449845666209801",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-17T22:41:42",
+        "parsed.validity.start": "2020-08-17T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "viajero.hostel-google.com",
+            "www.viajero.hostel-google.com"
+        ],
+        "parsed.validity.end": "2020-11-20T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "viajero.hostel-google.com"
+        ],
+        "parsed.serial_number": "226403353687153636253429173771517936975",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-22T22:23:51",
+        "parsed.validity.start": "2020-08-22T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "ruanomadrid.bnb-google.com",
+            "www.ruanomadrid.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-26T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "ruanomadrid.bnb-google.com"
+        ],
+        "parsed.serial_number": "323656687554533436288194788903978755994",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-28T02:42:38",
+        "parsed.validity.start": "2020-08-28T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "iris.hostel-google.com",
+            "www.iris.hostel-google.com"
+        ],
+        "parsed.validity.end": "2020-11-21T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "iris.hostel-google.com"
+        ],
+        "parsed.serial_number": "280416664902078121291120671494824570096",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-23T22:25:39",
+        "parsed.validity.start": "2020-08-23T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "33jalansultan.hotel-google.com",
+            "www.33jalansultan.hotel-google.com"
+        ],
+        "parsed.validity.end": "2020-11-16T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "33jalansultan.hotel-google.com"
+        ],
+        "parsed.serial_number": "295609883319562202170418452778677874900",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-18T22:41:07",
+        "parsed.validity.start": "2020-08-18T00:00:00Z",
+        "metadata.seen_in_scan": false
+    },
+    {
+        "parsed.names": [
+            "casadelamontana.bnb-google.com",
+            "www.casadelamontana.bnb-google.com"
+        ],
+        "parsed.validity.end": "2020-11-25T23:59:59Z",
+        "tags": [
+            "dv",
+            "unexpired",
+            "precert",
+            "leaf",
+            "trusted"
+        ],
+        "parsed.validity.length": 7862399,
+        "parsed.subject.common_name": [
+            "casadelamontana.bnb-google.com"
+        ],
+        "parsed.serial_number": "41855030298589351481602032884485899467",
+        "parsed.issuer.common_name": [
+            "cPanel, Inc. Certification Authority"
+        ],
+        "metadata.source": "ct",
+        "metadata.updated_at": "2020-08-27T02:38:03",
+        "parsed.validity.start": "2020-08-27T00:00:00Z",
+        "metadata.seen_in_scan": false
+    }
+]
