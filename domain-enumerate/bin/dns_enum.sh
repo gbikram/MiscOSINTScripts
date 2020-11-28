@@ -1,42 +1,46 @@
-#!/bin/bash 
-export $(xargs < ../.env)
-source colors.sh
+#!/bin/bash
+#export $(xargs < ../.env)
+source ../../globals/colors.sh
 
-DOMAIN=$1
+print_heading() {
+	HEAD=$1
+	echo -e "\n${Red}[+] ################### $HEAD ###################${Color_Off}\n"
+}
+
+ DOMAIN=$1
 
 # Print Host output
-echo -e "${Red}################ Quick Host Lookup${Color_Off}\n"
+print_heading "Quick Host Lookup"
 host $DOMAIN
 echo
 
 # Print Dig output
-echo -e "${Red}############### Dig A Lookup${Color_Off}"
+print_heading "Dig A Lookup"
 dig $DOMAIN -t A +short
 echo
 
 # Print Dig output
-echo -e "${Red}############### Dig NS Lookup${Color_Off}"
+print_heading "Dig NS Lookup"
 dig $DOMAIN -t ns +short
 echo
 
 # Print Dig output
-echo -e "${Red}############### Dig MX Lookup${Color_Off}"
+print_heading "Dig MX Lookup"
 dig $DOMAIN -t MX +short
 echo
 
 # WHOIS
-echo -e "${Red}############## Exporting WHOIS to file${Color_Off}"
+print_heading "Exporting WHOIS to file"
 whois $DOMAIN > ../output/whois.txt
 echo
 
 # Save Shodan domain details
-echo -e "${Red}############# Exporting SHODAN domain search results to file${Color_Off}"
+print_heading "Exporting SHODAN domain search results to file"
 shodan domain $DOMAIN > ../output/shodan_domain.txt
 echo
 
 
 # Get Certs from Censys
-echo -e "${Red}############## Censys - Certs exported${Color_Off}"
+print_heading "Censys - Certs exported"
 censys --censys_api_id $CENSYS_API_ID --censys_api_secret $CENSYS_API_SECRET --query_type certs $DOMAIN > ../output/censys_certs.json
 cat ../output/censys_certs.json | jq '.[0]["parsed.serial_number"]'
-

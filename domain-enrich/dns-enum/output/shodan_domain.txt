@@ -1,8 +1,0 @@
-SGTFOOD.COM.MY
-
-                         A      65.60.11.250
-                         MX     sgtfood.com.my
-                         NS     ns1.websitehostserver.net
-                         NS     ns2.websitehostserver.net
-                         SOA    ns1.websitehostserver.net
-www                      CNAME  sgtfood.com.my
