@@ -1,0 +1,42 @@
+### Adversary
+
+#### Shodan
+
+TeamTNT - "irc.teamtnt.red"
+
+#### Google
+
+#### URLScan
+
+#### VirusTotal
+
+
+### Vulnerabilities
+
+#### Shodan
+Kubernetes - port:10250
+Kubernetes - port:2379
+Kubernetes - ssl:"kubernetes"
+
+#### Google
+
+#### URLScan
+
+#### VirusTotal
+
+
+### Malware
+
+#### Shodan
+Cobalt Strike - ssl:"146473198" ssl:"C=, ST=, L=, O=, OU=, CN="
+Suspicious Nginx Redirects - nginx AND "Location:" AND "no-referrer" AND "content-length: 154"
+Bazarloader - product:nginx ssl:"forenzik.kz"
+
+#### Google
+
+#### URLScan
+
+#### VirusTotal
+
+
+### Refs:
