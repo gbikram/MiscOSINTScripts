@@ -83,7 +83,20 @@
             var table = document.createElement('table');
 
             // Add headers to the table
-            var headers = ['Type', 'IOC', 'URLScan', 'VirusTotal', 'BGP', 'Whoxy', 'GreyNoise', 'Shodan', 'Hatching'];
+            var headers = [
+                'Type', 
+                'IOC', 
+                'URLScan', 
+                'VirusTotal', 
+                'BGP', 
+                'Whoxy', 
+                'GreyNoise', 
+                'Shodan', 
+                'Hatching',
+                'Censys',
+                'OTX',
+                'Epieos'
+            ];
             var headerRow = table.insertRow();
             headers.forEach(headerText => {
                 var header = document.createElement('th');
@@ -101,6 +114,9 @@
             // Display the table on the webpage
             var resultDiv = document.getElementById('result');
             resultDiv.innerHTML = '';
+            var section_header = document.createElement('h2')
+            section_header.innerText = 'Extracted Observables' 
+            resultDiv.appendChild(section_header)
             resultDiv.appendChild(table);
         }
 
@@ -122,19 +138,20 @@
                 cellIOC.innerHTML = ioc;
                 
                 // Add enrichment hyperlinks
-                if(["Domains", "IPv4 Addresses"].includes(type)) {
-                    cellURLScan.innerHTML = `<a href="${urlScanBaseUrl}${ioc}" target="_blank">URLScan</a>`;
-                }
                 if(["IPv4 Addresses"].includes(type)) {
+                    cellURLScan.innerHTML = `<a href="${urlScanBaseUrl}${ioc}" target="_blank">URLScan</a>`;
                     cellVirusTotal.innerHTML = `<a href="https://www.virustotal.com/gui/ip-address/${ioc}" target="_blank">VirusTotal</a>`;
                     cellBGP.innerHTML = `<a href="https://bgp.he.net/ip/${ioc}#_dnsrecords" target="_blank">BGP DNS</a>`;
                     cellGreynoise.innerHTML = `<a href="https://viz.greynoise.io/ip/${ioc}" target="_blank">GreyNoise</a>`;
                     cellShodan.innerHTML = `<a href="https://www.shodan.io/host/${ioc}" target="_blank">Shodan</a>`;
+                    cellHatching.innerHTML = `<a href="https://tria.ge/s?q=${ioc}" target="_blank">Hatching</a>`;
                 }
                 if(["Domains"].includes(type)) {
+                    cellURLScan.innerHTML = `<a href="${urlScanBaseUrl}${ioc}" target="_blank">URLScan</a>`;
                     cellVirusTotal.innerHTML = `<a href="https://www.virustotal.com/gui/domain/${ioc}" target="_blank">VirusTotal</a>`;
                     cellWhoxy.innerHTML = `<a href="https://www.whoxy.com/${ioc}" target="_blank">Whoxy</a>`;
                     cellBGP.innerHTML = `<a href="https://bgp.he.net/dns/${ioc}" target="_blank">BGP</a>`;
+                    cellHatching.innerHTML = `<a href="https://tria.ge/s?q=${ioc}" target="_blank">Hatching</a>`;
                 }
                 if(["File Hashes"].includes(type)) {
                     cellVirusTotal.innerHTML = `<a href="https://www.virustotal.com/gui/file/${ioc}" target="_blank">${virusTotalText}</a>`;
@@ -144,17 +161,17 @@
         }
     </script>
 </head>
-<body>
+<body style="font-family: system-ui;">
     <h1>IOC OSINT Explorer</h1>
+    <p>A static HTML page for quick OSINT pivoting.</p>
     <form onsubmit="handleSubmit(); return false;">
-        <label for="textInput">Enter unstructured text:</label>
+        <label for="textInput">Enter text:</label>
         <br>
-        <textarea id="textInput" rows="10" cols="100"></textarea>
+        <textarea id="textInput" rows="30" cols="200"></textarea>
         <br>
         <input type="submit" value="Extract IOCs">
     </form>
 
-    <h2>Extracted IOCs:</h2>
     <div id="result"></div>
 </body>
 </html>
