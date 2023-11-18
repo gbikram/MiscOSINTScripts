@@ -83,7 +83,7 @@
             var table = document.createElement('table');
 
             // Add headers to the table
-            var headers = ['Type', 'IOC', 'URLScan', 'VirusTotal', 'BGP', 'Whoxy'];
+            var headers = ['Type', 'IOC', 'URLScan', 'VirusTotal', 'BGP', 'Whoxy', 'GreyNoise', 'Shodan', 'Hatching'];
             var headerRow = table.insertRow();
             headers.forEach(headerText => {
                 var header = document.createElement('th');
@@ -114,6 +114,9 @@
                 var cellVirusTotal = row.insertCell(3);
                 var cellBGP = row.insertCell(4)
                 var cellWhoxy = row.insertCell(5)
+                var cellGreynoise = row.insertCell(6)
+                var cellShodan = row.insertCell(7)
+                var cellHatching = row.insertCell(8)
 
                 cellType.appendChild(document.createTextNode(type));
                 cellIOC.innerHTML = ioc;
@@ -125,6 +128,8 @@
                 if(["IPv4 Addresses"].includes(type)) {
                     cellVirusTotal.innerHTML = `<a href="https://www.virustotal.com/gui/ip-address/${ioc}" target="_blank">VirusTotal</a>`;
                     cellBGP.innerHTML = `<a href="https://bgp.he.net/ip/${ioc}#_dnsrecords" target="_blank">BGP DNS</a>`;
+                    cellGreynoise.innerHTML = `<a href="https://viz.greynoise.io/ip/${ioc}" target="_blank">GreyNoise</a>`;
+                    cellShodan.innerHTML = `<a href="https://www.shodan.io/host/${ioc}" target="_blank">Shodan</a>`;
                 }
                 if(["Domains"].includes(type)) {
                     cellVirusTotal.innerHTML = `<a href="https://www.virustotal.com/gui/domain/${ioc}" target="_blank">VirusTotal</a>`;
@@ -133,6 +138,7 @@
                 }
                 if(["File Hashes"].includes(type)) {
                     cellVirusTotal.innerHTML = `<a href="https://www.virustotal.com/gui/file/${ioc}" target="_blank">${virusTotalText}</a>`;
+                    cellHatching.innerHTML = `<a href="https://tria.ge/s?q=${ioc}" target="_blank">Hatching</a>`;
                 }
             });
         }
